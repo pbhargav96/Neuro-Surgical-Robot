@@ -1,2 +1,2 @@
 # Neuro-Surgical-Robot
-Path Planning using Zig-Zag Algorithm
+Path Planning using Path Coverage Algorithm
