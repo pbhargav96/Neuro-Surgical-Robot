@@ -1,2 +1,2 @@
 # Neuro-Surgical-Robot
-Implementeation of coverage path planning
+Implementeation of Path Coverage Algorithm
